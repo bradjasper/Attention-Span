@@ -1,0 +1,17 @@
+Attention Span shows you how sticky your content is by displaying the
+bounce rate and pages per visit for Mint analytics.
+
+[Q] How do I install?
+[A] Copy the bradjasper directory to the mint/pepper directory. Go to your Mint administration and click AttentionSpan. Click Install and you're ready to go.
+
+[Q] What is a Bounce Rate?
+[A] A bounce rate is the percentage of users who visited only 1 page of your site. The lower this number is the better. This means the visitor stayed and looked around.
+
+[Q] What is Pages Per Visit?
+[A] Pages per visit is the opposite of bounce rate. It's the average number of pages per visit for your visitors.
+
+[Q] Why don't my percentages add up? And why do stats change after the time period has ended?
+[A] This has to do with repeat visitors. Mint keeps track of this information independently. See http://www.haveamint.com/faqs/miscellaneous/definitions_total_unique
+
+[Q] I have a bug or suggestion, who do I contact?
+[A] E-mail me at contact@bradjasper.com
